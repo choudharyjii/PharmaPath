@@ -1,0 +1,2557 @@
+{
+    "footer": [
+        {
+            "text": "Privacy Statement",
+            "link": "https://www8.hp.com/us/en/privacy/privacy-central.html"
+        },
+        {
+            "text": "Terms of Use",
+            "link": "https://www8.hp.com/us/en/terms-of-use.html"
+        },
+        {
+            "text": "hp.com",
+            "link": "https://www.hp.com/"
+        },
+        {
+            "text": "©2023 HPI Restricted"
+        }
+    ],
+    "paynterGoal": [
+        {
+          "Month": "JUN-20",
+          "sort": 1,
+          "totalMTDouts": 9020,
+          "product": [
+            {
+              "report_goal_label_tx": "FALCON GHIDORAHDefaultReleasedFGI",
+              "sort_order_nr": 1,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 386,
+                  "outscolor": "1",
+                  "yield": 0.97,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 420,
+                  "outscolor": "1",
+                  "yield": 0.977,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 509,
+                  "outscolor": "1",
+                  "yield": 0.979,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 407,
+                  "outscolor": "0",
+                  "yield": 0.967,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 39,
+                  "outscolor": "1",
+                  "yield": 0.975,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 421,
+                  "outscolor": "1",
+                  "yield": 0.96,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0.96,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 421,
+                  "outscolor": "NULL",
+                  "yield": 0.96,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON LEMMYDefaultReleasedFGI",
+              "sort_order_nr": 2,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON KILMISTERDefaultReleasedFGI",
+              "sort_order_nr": 3,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON HAWKWINDDefaultReleasedFGI",
+              "sort_order_nr": 4,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON HUMMINGBIRDDefaultReleasedFGI",
+              "sort_order_nr": 5,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON HOTHDefaultReleasedFGI",
+              "sort_order_nr": 6,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON PUFFERDefaultReleasedFGI",
+              "sort_order_nr": 7,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 1129,
+                  "outscolor": "1",
+                  "yield": 0.942,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 1852,
+                  "outscolor": "0",
+                  "yield": 0.962,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 1713,
+                  "outscolor": "1",
+                  "yield": 0.963,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 211,
+                  "outscolor": "0",
+                  "yield": 0.981,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 425,
+                  "outscolor": "1",
+                  "yield": 0.984,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 206,
+                  "outscolor": "0",
+                  "yield": 0.949,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 578,
+                  "outscolor": "1",
+                  "yield": 0.965,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 231,
+                  "outscolor": "1",
+                  "yield": 0.943,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 1504,
+                  "outscolor": "1",
+                  "yield": 0.96,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0.96,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 1504,
+                  "outscolor": "NULL",
+                  "yield": 0.96,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON MICRDefaultReleasedFGI",
+              "sort_order_nr": 8,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 214,
+                  "outscolor": "1",
+                  "yield": 0.991,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 209,
+                  "outscolor": "1",
+                  "yield": 0.968,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 53,
+                  "outscolor": "0",
+                  "yield": 0.981,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 107,
+                  "outscolor": "1",
+                  "yield": 0.991,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0.96,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0.96,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0.96,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON PLIXDefaultReleasedFGI",
+              "sort_order_nr": 9,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 107,
+                  "outscolor": "0",
+                  "yield": 0.991,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 221,
+                  "outscolor": "1",
+                  "yield": 0.953,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0.96,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0.96,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0.96,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON HD PUFFERDefaultReleasedFGI",
+              "sort_order_nr": 10,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 2052,
+                  "outscolor": "0",
+                  "yield": 0.943,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 4368,
+                  "outscolor": "1",
+                  "yield": 0.95,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 4031,
+                  "outscolor": "0",
+                  "yield": 0.959,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 937,
+                  "outscolor": "0",
+                  "yield": 0.963,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 1247,
+                  "outscolor": "0",
+                  "yield": 0.959,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 1286,
+                  "outscolor": "1",
+                  "yield": 0.955,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 744,
+                  "outscolor": "1",
+                  "yield": 0.959,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 321,
+                  "outscolor": "1",
+                  "yield": 0.97,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 3776,
+                  "outscolor": "1",
+                  "yield": 0.94,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0.94,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 3776,
+                  "outscolor": "NULL",
+                  "yield": 0.94,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON HD MERADefaultReleasedFGI",
+              "sort_order_nr": 11,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON G5 MALABARDefaultReleasedFGI",
+              "sort_order_nr": 12,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "DefaultReleasedFGI",
+              "sort_order_nr": 13,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 6340,
+                  "outscolor": "0",
+                  "yield": 0.935,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 8909,
+                  "outscolor": "1",
+                  "yield": 0.952,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 7703,
+                  "outscolor": "1",
+                  "yield": 0.962,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 1800,
+                  "outscolor": "0",
+                  "yield": 0.969,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 1711,
+                  "outscolor": "0",
+                  "yield": 0.966,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 2375,
+                  "outscolor": "1",
+                  "yield": 0.962,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 1539,
+                  "outscolor": "1",
+                  "yield": 0.958,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 657,
+                  "outscolor": "1",
+                  "yield": 0.961,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 6823,
+                  "outscolor": "1",
+                  "yield": 0.95,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0.95,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 6823,
+                  "outscolor": "NULL",
+                  "yield": 0.95,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "SpecialInternal",
+              "sort_order_nr": 14,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "outs": 747,
+                  "outscolor": "0",
+                  "yield": 0.894,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "APR-2020",
+                  "outs": 487,
+                  "outscolor": "0",
+                  "yield": 0.955,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 395,
+                  "outscolor": "0",
+                  "yield": 0.934,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "outs": 427,
+                  "outscolor": "1",
+                  "yield": 0.953,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "outs": 183,
+                  "outscolor": "0",
+                  "yield": 0.938,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "outs": 105,
+                  "outscolor": "1",
+                  "yield": 0.921,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/22",
+                  "outs": 120,
+                  "outscolor": "1",
+                  "yield": 0.968,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "06/29",
+                  "outs": 96,
+                  "outscolor": "1",
+                  "yield": 0.99,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 291,
+                  "outscolor": "1",
+                  "yield": 0.9,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0.9,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 291,
+                  "outscolor": "NULL",
+                  "yield": 0.9,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "blank": "1",
+              "sort_order_nr": 15,
+              "report_goal_label_tx": "SpecialInternal",
+              "list":[]
+            },
+            {
+              "report_goal_label_tx": "",
+              "sort_order_nr": 16,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "APR-2020",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "06/22",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "06/29",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "days": "MTD Actual",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "MTD Goal (<= Days)",
+                  "days": "MTD Goal (<= Days)",
+                  "color": "NULL",
+                  "header": "1"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "Default",
+              "sort_order_nr": 17,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "days": 12.73,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "APR-2020",
+                  "days": 11.33,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "days": 11.52,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/01",
+                  "days": 15.74,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/08",
+                  "days": 11.68,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/15",
+                  "days": 14.57,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/22",
+                  "days": 13.47,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/29",
+                  "days": 11.67,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "days": 13.86,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MTD Goal (<= Days)",
+                  "days": null,
+                  "color": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "Special",
+              "sort_order_nr": 18,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "days": 6.6,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "APR-2020",
+                  "days": 15.52,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "days": 15.18,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/01",
+                  "days": 10.94,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/08",
+                  "days": 10.75,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/15",
+                  "days": 12.9,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/22",
+                  "days": 12.47,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/29",
+                  "days": 15.96,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "days": 12.14,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MTD Goal (<= Days)",
+                  "days": null,
+                  "color": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "",
+              "sort_order_nr": 19,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "APR-2020",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "06/01",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "06/08",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "06/15",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "06/22",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "06/29",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "days": "MTD Actual",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "MTD Goal (<= Days)",
+                  "days": "MTD Goal",
+                  "color": "NULL",
+                  "header": "1"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "NA",
+              "sort_order_nr": 20,
+              "list": [
+                {
+                  "heading": "MAR-2020",
+                  "days": 0.984,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "APR-2020",
+                  "days": 0.993,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "days": 0.992,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/01",
+                  "days": 1,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/08",
+                  "days": 1,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/15",
+                  "days": 1,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/22",
+                  "days": 1,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "06/29",
+                  "days": 1,
+                  "color": "NULL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Month": "JUL-20",
+          "sort": 2,
+          "totalMTDouts": 701,
+          "product": [
+            {
+              "report_goal_label_tx": "FALCON GHIDORAHDefaultReleasedFGI",
+              "sort_order_nr": 1,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 420,
+                  "outscolor": "1",
+                  "yield": 0.977,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 509,
+                  "outscolor": "1",
+                  "yield": 0.979,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 446,
+                  "outscolor": "1",
+                  "yield": 0.967,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 280,
+                  "outscolor": "0",
+                  "yield": 0.96,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 280,
+                  "outscolor": "NULL",
+                  "yield": 0.96,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON LEMMYDefaultReleasedFGI",
+              "sort_order_nr": 2,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON KILMISTERDefaultReleasedFGI",
+              "sort_order_nr": 3,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON HAWKWINDDefaultReleasedFGI",
+              "sort_order_nr": 4,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON HUMMINGBIRDDefaultReleasedFGI",
+              "sort_order_nr": 5,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON HOTHDefaultReleasedFGI",
+              "sort_order_nr": 6,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON PUFFERDefaultReleasedFGI",
+              "sort_order_nr": 7,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 1852,
+                  "outscolor": "0",
+                  "yield": 0.962,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 1713,
+                  "outscolor": "1",
+                  "yield": 0.963,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 1651,
+                  "outscolor": "1",
+                  "yield": 0.967,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 103,
+                  "outscolor": "1",
+                  "yield": 0.945,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 1076,
+                  "outscolor": "0",
+                  "yield": 0.96,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 1076,
+                  "outscolor": "NULL",
+                  "yield": 0.96,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON MICRDefaultReleasedFGI",
+              "sort_order_nr": 8,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 209,
+                  "outscolor": "1",
+                  "yield": 0.968,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 53,
+                  "outscolor": "0",
+                  "yield": 0.981,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 107,
+                  "outscolor": "1",
+                  "yield": 0.991,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 48,
+                  "outscolor": "0",
+                  "yield": 0.96,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 48,
+                  "outscolor": "NULL",
+                  "yield": 0.96,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON PLIXDefaultReleasedFGI",
+              "sort_order_nr": 9,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 221,
+                  "outscolor": "1",
+                  "yield": 0.953,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0.96,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0.96,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON HD PUFFERDefaultReleasedFGI",
+              "sort_order_nr": 10,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 4368,
+                  "outscolor": "1",
+                  "yield": 0.95,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 4031,
+                  "outscolor": "0",
+                  "yield": 0.959,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 4535,
+                  "outscolor": "1",
+                  "yield": 0.96,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 4272,
+                  "outscolor": "0",
+                  "yield": 0.94,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 4272,
+                  "outscolor": "NULL",
+                  "yield": 0.94,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON HD MERADefaultReleasedFGI",
+              "sort_order_nr": 11,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 408,
+                  "outscolor": "0",
+                  "yield": 0.94,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 408,
+                  "outscolor": "NULL",
+                  "yield": 0.94,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "FALCON G5 MALABARDefaultReleasedFGI",
+              "sort_order_nr": 12,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 0,
+                  "outscolor": "1",
+                  "yield": 0,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "DefaultReleasedFGI",
+              "sort_order_nr": 13,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 8909,
+                  "outscolor": "1",
+                  "yield": 0.952,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 7703,
+                  "outscolor": "1",
+                  "yield": 0.962,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 8082,
+                  "outscolor": "1",
+                  "yield": 0.963,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 437,
+                  "outscolor": "0",
+                  "yield": 0.924,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 6814,
+                  "outscolor": "0",
+                  "yield": 0.95,
+                  "yieldcolor": "0"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 6814,
+                  "outscolor": "NULL",
+                  "yield": 0.95,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "SpecialInternal",
+              "sort_order_nr": 14,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "outs": 487,
+                  "outscolor": "0",
+                  "yield": 0.955,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "outs": 395,
+                  "outscolor": "0",
+                  "yield": 0.934,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "outs": 931,
+                  "outscolor": "1",
+                  "yield": 0.952,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "outs": 264,
+                  "outscolor": "1",
+                  "yield": 0.971,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "outs": 620,
+                  "outscolor": "0",
+                  "yield": 0.9,
+                  "yieldcolor": "1"
+                },
+                {
+                  "heading": "Weekly Goal",
+                  "outs": 0,
+                  "outscolor": "NULL",
+                  "yield": 0,
+                  "yieldcolor": "NULL"
+                },
+                {
+                  "heading": "Monthly Goal",
+                  "outs": 620,
+                  "outscolor": "NULL",
+                  "yield": 0.9,
+                  "yieldcolor": "NULL"
+                }
+              ]
+            },
+            {
+              "blank": "1",
+              "sort_order_nr": 15
+            },
+            {
+              "report_goal_label_tx": "",
+              "sort_order_nr": 16,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "07/06",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "07/13",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "07/20",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "07/27",
+                  "days": "Days(#)",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "days": "MTD Actual",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "MTD Goal (<= Days)",
+                  "days": "MTD Goal (<= Days)",
+                  "color": "NULL",
+                  "header": "1"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "Default",
+              "sort_order_nr": 17,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "days": 11.33,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "days": 11.52,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "days": 13.86,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/01",
+                  "days": 12.23,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/06",
+                  "days": null,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/13",
+                  "days": null,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/20",
+                  "days": null,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/27",
+                  "days": null,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "days": 12.23,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MTD Goal (<= Days)",
+                  "days": null,
+                  "color": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "Special",
+              "sort_order_nr": 18,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "days": 15.52,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "days": 15.18,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "days": 12.14,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/01",
+                  "days": 4.97,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/06",
+                  "days": null,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/13",
+                  "days": null,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/20",
+                  "days": null,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/27",
+                  "days": null,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "days": 4.97,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MTD Goal (<= Days)",
+                  "days": null,
+                  "color": "NULL"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "",
+              "sort_order_nr": 19,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "07/01",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "07/06",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "07/13",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "07/20",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "07/27",
+                  "days": "%",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "MTD Actual",
+                  "days": "MTD Actual",
+                  "color": "1",
+                  "header": "1"
+                },
+                {
+                  "heading": "MTD Goal (<= Days)",
+                  "days": "MTD Goal",
+                  "color": "NULL",
+                  "header": "1"
+                }
+              ]
+            },
+            {
+              "report_goal_label_tx": "NA",
+              "sort_order_nr": 20,
+              "list": [
+                {
+                  "heading": "APR-2020",
+                  "percent": 0.993,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "MAY-2020",
+                  "percent": 0.992,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "JUN-2020",
+                  "percent": 1,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/01",
+                  "percent": 1,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/06",
+                  "percent": null,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/13",
+                  "percent": null,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/20",
+                  "percent": null,
+                  "color": "NULL"
+                },
+                {
+                  "heading": "07/27",
+                  "percent": null,
+                  "color": "NULL"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+}

@@ -1,0 +1,23 @@
+{
+"menu":[
+    {
+      "displayName": "Scheme Calculation",
+      "iconName": "fa-solid fa-gears",
+      "id": "P100",
+      "children": [
+        {
+          "displayName": "Invoice Data",
+          "iconName": "fa-thin fa-paintbrush",
+          "route": "scheme-calculation/invoice-data",
+          "code": "C101"
+        },
+        {
+          "displayName": "Scheme Calculation",
+          "iconName": "fa-thin fa-paintbrush",
+          "route": "scheme-calculation/",
+          "code": "C102"
+        }
+      ]
+    }
+  ]
+}

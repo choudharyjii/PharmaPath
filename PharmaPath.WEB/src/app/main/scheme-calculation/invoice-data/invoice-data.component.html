@@ -1,0 +1,43 @@
+<div>
+    <div mat-dialog-content>
+        <div class="p-2">
+            <form #invoiceDataForm="ngForm">
+
+                <div class="row">
+                    <mat-form-field class="col-sm-6">
+                        <mat-label>Company</mat-label>
+                        <input matInput />
+                    </mat-form-field>
+
+                    <mat-form-field class="col-sm-6">
+                        <mat-label>Division</mat-label>
+                        <mat-select><mat-option *ngFor="let item of DivisionNameList" [value]="item.Division">{{
+                                item.Bu}}</mat-option></mat-select>
+                    </mat-form-field>
+                </div>
+
+                <div class="row">
+                    <mat-form-field class="col-sm-6">
+                        <mat-label>Form Date</mat-label>
+                        <input matInput readonly [matDatepicker]="startDate"/>
+                        <mat-datepicker-toggle matSuffix [for]="startDate"></mat-datepicker-toggle>
+                        <mat-datepicker #startDate></mat-datepicker>
+                    </mat-form-field>
+
+                    <mat-form-field class="col-sm-6">
+                        <mat-label>To Date</mat-label>
+                        <input matInput readonly [matDatepicker]="endDate"/>
+                        <mat-datepicker-toggle matSuffix [for]="endDate"></mat-datepicker-toggle>
+                        <mat-datepicker #endDate></mat-datepicker>
+                    </mat-form-field>
+                </div>
+
+            </form>
+        </div>
+    </div>
+    <div mat-dialog-actions align="end">
+        <span>
+            <button type="button" mat-flat-button color="primary">Get Invoice Data</button>
+        </span>
+    </div>
+</div>

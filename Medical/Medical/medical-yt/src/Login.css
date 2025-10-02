@@ -1,0 +1,118 @@
+/* Login.css */
+
+/* Full-page background with overlay */
+.login-page {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('./assets/Main.jpg'); /* replace with your image path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+/* Overlay for better readability */
+.login-page::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.4); /* dark overlay */
+  z-index: 1;
+}
+
+/* Login container */
+.login-container {
+  position: relative;
+  z-index: 2;
+  background: #fff;
+  padding: 40px 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+  width: 350px;
+  max-width: 90%;
+
+  /* Fade-in animation */
+  opacity: 0;
+  transform: scale(0.9);
+  animation: fadeInScale 0.6s forwards;
+}
+
+/* Animation keyframes */
+@keyframes fadeInScale {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Login form */
+.login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Login title */
+.login-title {
+  text-align: center;
+  color: #333;
+  margin-bottom: 25px;
+  font-weight: 700;
+}
+
+/* Input group */
+.input-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.input-group label {
+  margin-bottom: 5px;
+  color: #555;
+  font-weight: 500;
+}
+
+.input-group input {
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.input-group input:focus {
+  border-color: #8e44ad;
+  box-shadow: 0 0 8px rgba(142, 68, 173, 0.2);
+}
+
+/* Login button */
+.login-button {
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  background: #8e44ad;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.login-button:hover {
+  background: #9b59b6;
+}
+
+/* Responsive */
+@media (max-width: 400px) {
+  .login-container {
+    padding: 30px 20px;
+  }
+}
+
+

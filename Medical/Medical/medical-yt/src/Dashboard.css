@@ -1,0 +1,15 @@
+/* Dashboard.css */
+
+.dashboard-container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.dashboard-content {
+  flex: 1; /* Full remaining width */
+  display: flex;
+  flex-direction: column;
+  background: #f4f4f4;
+}

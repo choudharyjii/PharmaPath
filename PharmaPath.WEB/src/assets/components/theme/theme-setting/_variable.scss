@@ -1,0 +1,80 @@
+// colors
+$brand: #730303;
+$indigo: #3f51b5;
+$purple: #6f42c1;
+$pink: #e83e8c;
+$red: #C71C22;
+$orange: #fd7e14;
+$yellow: #DD5600;
+$green: #4caf50;
+$teal: #20c997;
+$cyan: #00bcd4;
+$blue-light: #d5d9eb;
+$blue-gray: #607d8b;
+
+
+$themeColor: $green;
+
+
+
+$primary: $themeColor;
+$light: #c9c9c9;
+
+
+$theme-colors: (
+);
+
+$custom-colors: (
+  "primary": $primary,
+  "light": $light
+);
+$bg-success-light : rgba(105, 195, 87, 0.5);
+;
+$bg-danger-light : rgba(240, 55, 4, 0.5);
+$bg-warning-light : rgba(207, 186, 15, 0.5);
+
+.bg-success-light {
+  background-color: $bg-success-light !important;
+}
+
+.bg-danger-light {
+  background-color: $bg-danger-light !important;
+}
+
+.bg-warning-light {
+  background-color: $bg-warning-light !important;
+}
+
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+table.table-bordered {
+  border: 1px solid $primary;
+  margin-top: 20px;
+}
+
+table.table-bordered tr>th,
+table.table-bordered tr>td {
+  border: 1px solid $primary;
+}
+
+table.table-bordered thead>tr>td {
+  border: 1px solid #cecece;
+  border-bottom: 1px solid $primary;
+}
+
+table.table-bordered thead>tr>td:nth-child(2n) {
+  border: 1px solid $primary;
+}
+
+.td-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+app-page-not-found{
+  display: flex;
+  height: 100%;
+}

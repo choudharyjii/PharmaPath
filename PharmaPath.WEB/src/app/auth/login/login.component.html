@@ -1,0 +1,36 @@
+<div class="login-container">
+    <div class="login-box">
+        <div class="app-logo-inverse mx-auto"></div>
+        <h5 class="projectName">Scheme Calculation</h5>
+        <h6>Please sign in to your account below.</h6>
+
+        <!-- <form (ngSubmit)="login()" style="margin-top: 10px;"> -->
+            <div class="input-group">
+                <input id="email" [(ngModel)]="loginRequest.username" type="email" required
+                    placeholder="Enter usercode...">
+                </div>
+                <div class="input-group">
+                    <input id="password" [(ngModel)]="loginRequest.password" type="password" required
+                    placeholder="Enter password..." (keyup.enter)="login()">
+                    <small tabindex="-1" id="exampleInputGroup1__BV_description_"
+                        class="form-text text-muted">We'll never share your usercode & password with anyone else. </small>
+            </div>
+            <div class="remember-me">
+                <label>
+                    <input type="checkbox">
+                    <span>Remember me</span>
+                </label>
+            </div>
+            <button (click)="login()" class="button">Login</button>
+            <div class="divider">OR</div>
+            <!-- <button (click)="SSOLogin()" class="SSOButton">SSO</button> -->
+            <div class="bsk-container">
+                <button class="bsk-btn bsk-btn-default" (click)="SSOLogin()">
+                  <object type="image/svg+xml" data="https://s3-eu-west-1.amazonaws.com/cdn-testing.web.bas.ac.uk/scratch/bas-style-kit/ms-pictogram/ms-pictogram.svg" class="x-icon"></object> 
+                  Sign in with Microsoft</button>
+              </div>
+        <!-- </form> -->
+        <p class="copyright">Copyright © {{authService.currentyear}}
+            Mahyco | Version - {{authService.WebVersion}}</p>
+    </div>
+</div>

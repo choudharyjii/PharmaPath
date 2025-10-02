@@ -1,0 +1,20 @@
+.custom-dialog-content {
+    padding: 10px;
+  }
+  
+  .mat-mdc-dialog-container{
+    min-width: auto !important;
+    max-width: 50vh !important;
+    padding: 10px !important;
+  }
+  
+  /* TODO(mdc-migration): The following rule targets internal classes of dialog that may no longer apply for the MDC version. */
+  .mat-dialog-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px; 
+  }
+  .mat-mdc-dialog-container.custom-dialog {
+    max-width: 50vh !important;
+  }

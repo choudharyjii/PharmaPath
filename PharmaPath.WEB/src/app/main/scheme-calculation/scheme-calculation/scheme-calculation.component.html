@@ -1,0 +1,171 @@
+<div class="p-2 bg-white shadow">
+  <form #schemeCalculationFrom="ngForm">
+    <mat-form-field class="col-sm-6">
+      <mat-label>Scheme No</mat-label>
+      <input matInput type="number">
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Sap Resone Code</mat-label>
+      <input matInput>
+    </mat-form-field>
+
+     <mat-form-field class="col-sm-6">
+      <mat-label>Division</mat-label>
+      <mat-select multiple [name]="'divisionCodes'" [id]="'divisionCodes'"
+        [(ngModel)]="schemeCalculationData.divisionCodes" [ngModelOptions]="{standalone: true}">
+        <mat-option *ngFor="let item of DivisionNameList" [value]="item.Division">{{ item.DivisionDetails}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+     <mat-form-field class="col-sm-6">
+      <mat-label>Scheme Type</mat-label>
+      <mat-select>
+        <mat-option *ngFor="let item of schemeType" [value]="item.id">
+          {{ item.text}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Company Code</mat-label>
+      <input matInput [name]="'companyCode'" [id]="'companyCode'" [(ngModel)]="schemeCalculationData.companyCode"
+        [ngModelOptions]="{standalone: true}" readonly>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Distribution Chanel</mat-label>
+      <input matInput [(ngModel)]="distribution_chanel" [ngModelOptions]="{standalone: true}" readonly>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Biling Type Exculde</mat-label>
+      <input matInput [(ngModel)]="bilingTypeExculde" [ngModelOptions]="{standalone: true}" readonly>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Item Categorey Exculde</mat-label>
+      <input matInput [name]="'excludePSTYV'" [id]="'excludePSTYV'" [(ngModel)]="schemeCalculationData.excludePSTYV"
+        [ngModelOptions]="{standalone: true}" readonly>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Zone</mat-label>
+      <mat-select multiple [name]="'zoneCodes'" [id]="'zoneCodes'" [(ngModel)]="schemeCalculationData.zoneCodes"
+        [ngModelOptions]="{standalone: true}" (ngModelChange)="onZoneChange($event)">
+        <mat-option *ngFor="let item of ZoneNameList" [value]="item.Zone_Code">{{ item.zoneDetails}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>State</mat-label>
+      <mat-select multiple [name]="'state'" [id]="'state'" [(ngModel)]="schemeCalculationData.state"
+      [ngModelOptions]="{standalone: true}" (ngModelChange)="onStateChange($event)">
+     <mat-option [value]="'All'">All</mat-option>
+        <mat-option *ngFor="let item of StateNameList" [value]="item.State_Code">{{ item.StateDetails}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Region</mat-label>
+      <mat-select multiple [name]="'regions'" [id]="'regions'" [(ngModel)]="schemeCalculationData.regions"
+        [ngModelOptions]="{standalone: true}" (ngModelChange)="onTerritoryChange($event)">
+        <mat-option *ngFor="let item of RegionList" [value]="item.Region_Code">{{ item.RegionDetails}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Territory</mat-label>
+      <mat-select multiple [name]="'territory'" [id]="'territory'" [(ngModel)]="schemeCalculationData.territory"
+        [ngModelOptions]="{standalone: true}">
+        <mat-option *ngFor="let item of TerritoryList" [value]="item.Territory_Code">{{ item.TerritoryDetails}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Scheme Start Date</mat-label>
+      <input matInput readonly [matDatepicker]="startDate" [name]="'startDate'" [id]="'startDate'"
+        [(ngModel)]="schemeCalculationData.startDate" [ngModelOptions]="{standalone: true}" />
+      <mat-datepicker-toggle matSuffix [for]="startDate">
+      </mat-datepicker-toggle>
+      <mat-datepicker #startDate></mat-datepicker>
+    </mat-form-field>
+
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Scheme End Date</mat-label>
+      <input matInput readonly [matDatepicker]="endDate" [name]="'endDate'" [id]="'endDate'"
+        [(ngModel)]="schemeCalculationData.endDate" [ngModelOptions]="{standalone: true}" />
+      <mat-datepicker-toggle matSuffix [for]="endDate"></mat-datepicker-toggle>
+      <mat-datepicker #endDate></mat-datepicker>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Crop Name</mat-label>
+      <mat-select multiple>
+        <mat-option *ngFor="let item of cropNameList" [value]="item.crop_code">
+          {{ item.Cropdtl}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Product Applicable</mat-label>
+      <mat-select multiple [name]="'materialCodes'" [id]="'materialCodes'"
+        [(ngModel)]="schemeCalculationData.materialCodes" [ngModelOptions]="{standalone: true}">
+        <mat-option *ngFor="let item of ProductNameList" [value]="item.Cropcode">
+          {{ item.Crop_desc }}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+     <mat-form-field class="col-sm-6">
+      <mat-label>Seasone</mat-label>
+      <input matInput>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Exculde_Customer</mat-label>
+      <mat-select multiple [name]="'excludeCustomer'" [id]="'excludeCustomer'"
+        [(ngModel)]="schemeCalculationData.excludeCustomer" [ngModelOptions]="{standalone: true}">
+        <mat-option *ngFor="let item of CustomerNameList" [value]="item.customerCode">{{ item.Dropcust }}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Exculde States</mat-label>
+      <mat-select multiple [name]="'excludeState'" [id]="'excludeState'"
+        [(ngModel)]="schemeCalculationData.excludeState" [ngModelOptions]="{standalone: true}">
+        <mat-option *ngFor="let item of StateNameList" [value]="item.State_Code">{{ item.StateDetails}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Exculde Region</mat-label>
+      <mat-select multiple [name]="'excludeRegions'" [id]="'excludeRegions'"
+        [(ngModel)]="schemeCalculationData.excludeRegions" [ngModelOptions]="{standalone: true}">
+        <mat-option *ngFor="let item of RegionList" [value]="item.Region_Code">{{ item.RegionDetails}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field class="col-sm-6">
+      <mat-label>Scheme Posting Date</mat-label>
+      <input matInput readonly [matDatepicker]="postingdate"/>
+      <mat-datepicker-toggle matSuffix [for]="postingdate"></mat-datepicker-toggle>
+      <mat-datepicker #postingdate></mat-datepicker>
+    </mat-form-field>
+
+    <div class="my-3 text-right px-3 py-2">
+      <button mat-raised-button color="primary" class="mr-3"
+        (click)="getSchemeCalculationData(schemeCalculationFrom.valid)">Calculate Scheme</button>
+    </div>
+  </form>
+</div>

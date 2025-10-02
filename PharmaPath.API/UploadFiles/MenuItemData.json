@@ -1,0 +1,58 @@
+[
+
+  {
+    "displayName": "Scheme Calculation",
+    "iconName": "fas fa-cogs",
+    "id": "P100",
+    "children": [
+      {
+        "displayName": "Invoice Data ",
+        "iconName": "fa-right-long",
+        "route": "scheme-calculation/invoice-data",
+        "code": "C101"
+      },
+      {
+        "displayName": "Scheme Calculation",
+        "iconName": "fa-right-long",
+        "route": "scheme-calculation",
+        "code": "C102"
+      }
+      //{
+      //  "displayName": "Check User Activity",
+      //  "iconName": "fa-right-long",
+      //  "route": "user-activity/check-user-activity",
+      //  "code": "C101"
+      //}
+      //{
+      //  "displayName": "Employee",
+      //  "iconName": "fa-right-long",
+      //  "route": "employeeDetails/employee",
+      //  "code": "C101"
+      //},
+      //{
+      //  "displayName": "Company",
+      //  "iconName": "fa-right-long",
+      //  "route": "companyDetails/my-company",
+      //  "code": "C102"
+      //},
+      //{
+      //  "displayName": "Configure Role Permission",
+      //  "iconName": "fa-right-long",
+      //  "route": "permissionDetails/user-role-permission",
+      //  "code": "C103"
+      //},
+      //{
+      //  "displayName": "Configure User Roles",
+      //  "iconName": "fa-right-long",
+      //  "route": "employeeDetails/user-Roles",
+      //  "code": "C104"
+      //},
+      //{
+      //  "displayName": "Permission",
+      //  "iconName": "fa-right-long",
+      //  "route": "permissionDetails/permission",
+      //"code": "C105"
+      //}
+    ]
+  }
+]

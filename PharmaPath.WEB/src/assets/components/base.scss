@@ -1,0 +1,9 @@
+@import "theme/theme-variable";
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+@import "../../../node_modules/bootstrap/scss/functions";
+// 2. Include any default variable overrides here
+
+
+// Required
+@import "../../../node_modules/bootstrap/scss/variables";
+@import "../../../node_modules/bootstrap/scss/mixins";

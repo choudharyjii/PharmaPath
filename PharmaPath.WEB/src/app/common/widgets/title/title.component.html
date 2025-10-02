@@ -1,0 +1,49 @@
+<!-- <div class="app-page-title bg-heavy-rain">
+<div class="page-title-wrapper">
+  <div class="page-title-heading">
+    <div class="page-title-icon">
+      <i class="fas" [ngClass]="displayData.icon"></i>
+    </div>
+    <div>
+      {{displayData.title}}
+    </div>
+  </div>
+</div>
+</div> -->
+<div class="app-page-title app-page-title-simple">
+  <div class="page-title-wrapper">
+    <div class="page-title-heading">
+      <div>
+        <!-- <div class="page-title-head center-elem">
+        <span class="d-inline-block pr-2">
+          <i class="fas" [ngClass]="displayData.icon"></i>
+        </span>
+        <span class="d-inline-block">Dashboard</span>
+      </div> -->
+      <div class="page-title-subheading opacity-10">
+        <nav class="" aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+              <a>
+                <i class="fas" [ngClass]="displayData.icon"></i>
+              </a>
+            </li>
+            <li class="breadcrumb-item">
+              <a>{{displayData.title}}</a>
+            </li>
+            <!-- <li class="right-aligned" *ngIf="displayData.title != 'Dashboard'">
+            <a class="title" (click)="goToHome();" matTooltip="Go to Dashboard">
+              <span>Dashboard.......</span>
+            </a>
+          </li> -->
+          @if (displayData.title2) {
+            <li class="active breadcrumb-item" aria-current="page"> {{displayData.title2}}
+            </li>
+          }
+        </ol>
+      </nav>
+    </div>
+  </div>
+</div>
+</div>
+</div>

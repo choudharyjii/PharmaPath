@@ -1,0 +1,108 @@
+/* styles.css */
+.login-container {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: linear-gradient(135deg, #66ea89 0%, #4ba25e 100%);
+    padding: 10px;
+}
+
+.login-box {
+    display: block;
+    width: 100%;
+    max-width: 320px;
+    padding: 5px 15px 5px 15px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    position: fixed;
+}
+
+h2 {
+    text-align: center;
+    color: #2E7D32;
+}
+
+h6, h5 {
+    text-align: center;
+}
+
+.input-group {
+    margin-bottom: 8px;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #66BB6A;
+    border-radius: 5px;
+}
+
+.remember-me {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.remember-me label {
+    display: flex;
+    align-items: center;
+}
+
+.remember-me span {
+    color: #2E7D32;
+    font-size: 14px;
+    margin-left: 5px; /* Added margin for spacing */
+}
+
+.button {
+    width: 100%;
+    padding: 10px;
+    background-image: linear-gradient(135deg, #66ea89 0%, #4ba25e 100%);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+.copyright {
+    text-align: center;
+    color: #666;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+.projectName{
+   color: #53825e;
+}
+.divider {
+    display: flex;
+    align-items: center;
+  }
+  
+  .divider::before, .divider::after {
+    flex: 1;
+    content: '';
+    padding: 0.1px;
+    background-color: black;
+    margin: 10px;
+  }
+
+  .bsk-container button{
+    width: 100%;
+    padding: 8px;
+    background-color: rgb(233, 231, 231);
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px rgb(226, 217, 217);
+}
+
+  .x-icon {
+    height: 1em;
+    width: 1em;
+    top: .125em;
+    position: relative;
+  }

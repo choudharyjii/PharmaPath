@@ -1,0 +1,10 @@
+<div mat-dialog-content class="text-dark">
+    {{data.massage}}
+</div>
+<div mat-dialog-actions align="end" class="custom-dialog-content">
+    <div [hidden]="data.btnShow" class="text-right">
+        <button  color="primary" mat-flat-button mat-dialog-close="true">OK</button>
+    </div>
+    <button [hidden]="! data.btnShow" color="primary" mat-flat-button (click)="clickYesButton()">Yes</button>
+    <button [hidden]="! data.btnShow" color="warn" mat-flat-button (click)="clickNoButton()">No</button>
+</div>
