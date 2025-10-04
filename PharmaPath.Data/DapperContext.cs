@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 using System.Data;
+using MySql.Data.MySqlClient;
 using Microsoft.Data.SqlClient;
 
 namespace PharmaPath. Data;
@@ -14,5 +15,5 @@ public class DapperContext
         _connectionString = _configuration.GetConnectionString("DefaultConnection");
     }
     public IDbConnection CreateConnection()
-        => new SqlConnection(_connectionString);
+    => new MySqlConnection(_connectionString);
 }

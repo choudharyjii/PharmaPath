@@ -49,9 +49,11 @@ namespace PharmaPath.Service.Services
                     }
                 }
             }
-            catch
+            catch (Exception ex)
             {
-                return null;
+                // Log the actual error
+                Console.WriteLine(ex.Message);
+                throw;
             }
 
             return null;
