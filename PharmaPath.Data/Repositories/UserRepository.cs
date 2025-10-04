@@ -22,9 +22,23 @@ public class UserRepository : IUserRepository
     {
         return await _repository.ExecuteSQL<int>($"INSERT INTO UserLoginHistory([UserId], [IPAddress], [LoggedOn]) VALUES({userId}, '{IpAddress}', GETUTCDATE())");
     }
-    public async Task<UserDetails?> AuthenticateUser(string userName, string password )
+    public async Task<UserDetails?> AuthenticateUser(string userName, string password)
     {
-        var results = await _repository.LoadData<UserDetails, dynamic>(storedProcedure: "usp_ValidateAuthenticateUser", new { EmailId = userName, Password = password });
-        return results != null ? results.FirstOrDefault() : null;
+        var parameters = new { p_EmailId = userName, p_Password = password };
+        try
+        {
+            var results = await _repository.LoadData<UserDetails, dynamic>(
+                storedProcedure: "usp_ValidateAuthenticateUser",
+                parameters
+            );
+            return results?.FirstOrDefault();
+        }
+        catch (Exception ex)
+        {
+            // Log the actual error
+            Console.WriteLine(ex.Message);
+            throw;
+        }
     }
-}
+
+    }

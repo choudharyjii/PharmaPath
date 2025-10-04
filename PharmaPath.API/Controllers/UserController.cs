@@ -27,9 +27,9 @@ namespace PharmaPath.API.Controllers
         [HttpPost, Route("authenticate", Name = "AuthenticateUser")]
         public async Task<ActionResult<UserDetailModel>> AuthenticateUser(FilterUserModel userLoginModel)
         {
-            var ldapResponse = await _ldapAuthenticatorService.AuthenticateViaLdap(userLoginModel);
-            if (ldapResponse != null)
-                return Ok(ldapResponse);
+            //var ldapResponse = await _ldapAuthenticatorService.AuthenticateViaLdap(userLoginModel);
+            //if (ldapResponse != null)
+            //    return Ok(ldapResponse);
 
             var dbResponse = await _userService.AuthenticateViaDatabase(userLoginModel);
             if (dbResponse != null)

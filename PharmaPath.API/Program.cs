@@ -1,11 +1,13 @@
+using AspNetCoreRateLimit;
+using GoogleApi.Extensions;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.AzureAD.UI;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Logging;
-using GoogleApi.Extensions;
-using AspNetCoreRateLimit;
 using NLog.Extensions.Logging;
-using PharmaPath.Data;
 using PharmaPath.API.Extensions;
+using PharmaPath.Data;
+using System;
 
 var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
@@ -58,6 +60,9 @@ ConfigureServices(builder.Services);
         });
         var app = builder.Build();
         app.UseMiddleware<ErrorHandlingMiddleware>();
+
+// MySQL connection setup
+var connectionString = builder.Configuration.GetConnectionString("MySqlConnection");
 
 // Configure the HTTP request pipeline.
 //if (app.Environment.IsDevelopment())
